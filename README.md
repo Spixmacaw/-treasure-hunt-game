@@ -73,6 +73,21 @@ If does'nt take right decision,in right path you lose same like output.
     you come to a river.you can wolk around it or swim across.type swim to swim across and wolk around:swim
     you swim across the river and get eaten by an alligator.
 
+![dileepsahoo's Stats](https://github-readme-stats.vercel.app/api?username=dileepsahoo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)![dileepsahoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dileepsahoo&theme=tokyonight&hide_border=true)![dileepsahoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dileepsahoo&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
